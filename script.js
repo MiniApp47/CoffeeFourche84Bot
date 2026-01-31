@@ -438,23 +438,21 @@ document.addEventListener('DOMContentLoaded', function () {
                  image: '',
                  badgeText: '',
                  products: [
-                      /* {
+                      {
                          id: '🔥 Cali US 🇺🇸 🔥',
                          flag: '🇺🇸',
                          name: '🔥 Cali US 🇺🇸 🔥',
-                         farm: '🇺🇸 NO FARMA',
+                         farm: '🇺🇸 NO FARM',
                          promoEligible: false,
                          type: 'Weed',
                          image: 'ProductCali.png',
                          video: 'VideoCali.mp4',
-                         description: 'Qualité premium, dispo maintenant. ✨',
+                         description: '🔥 NOUVELLE FRAPPE DE CALI DISPONIBLE 🇺🇸 \n\n Direct MADE IN USA – Qualité 100% validée par les vrais 💯 \n\n ⚠️ Quantités limitées !',
                          tarifs: [
-                             { weight: '10g', price: 80.00 },
-                             { weight: '25g', price: 180.00 },
-                             { weight: '50g', price: 320.00 },
-                             { weight: '100g', price: 550.00 },
+                             { weight: '2g', price: 20.00 },
+                             { weight: '4,5g', price: 40.00 },
                          ]
-                     }, */
+                     },
                 
                  ]
              },
