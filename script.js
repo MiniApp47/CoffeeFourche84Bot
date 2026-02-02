@@ -218,6 +218,22 @@ document.addEventListener('DOMContentLoaded', function () {
                                 { weight: '1g', price: 20.00 },
                                 { weight: '2g', price: 40.00 },
                             ]
+                        },
+                        {
+                            id: 'Filtre 73u 🧘🏻',
+                            flag: '🇺🇸',
+                            name: 'Filtre 73u 🧘🏻',
+                            farm: '🌊 NO FARM 🌊',
+                            promoEligible: true,
+                            type: 'Filtrer',
+                            image: 'Product7.png',
+                            video: 'Video7.mp4',
+                            description: '🚀 Nouvelle Frappe de filtre dispo ! \n\n MICRONS : 73u 🔥 \n  🔥 A ne surtout pas manquer la team !',
+                            tarifs: [
+                                { weight: '1,2g', price: 10.00 },
+                                { weight: '2,5g', price: 20.00 },
+                                { weight: '5,5g', price: 40.00 },
+                            ]
                         }
                       /*   {
                             id: '❄️ FRESH FROZEN 🔥',
