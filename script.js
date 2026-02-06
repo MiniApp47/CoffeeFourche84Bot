@@ -404,6 +404,22 @@ document.addEventListener('DOMContentLoaded', function () {
                                 { weight: '2g', price: 20.00 },
                                 { weight: '4,5g', price: 40.00 },
                             ]
+                        },
+                        {
+                            id: 'GELATO 🍦',
+                            flag: '🇪🇸',
+                            name: 'GELATO 🍦',
+                            farm: '',
+                            promoEligible: true,
+                            type: 'Hash',
+                            image: 'ProductGelato.png', // ⚠️ A changer
+                            video: 'VideoGelato.mp4',
+                            description: 'NOUVEAUTÉ 🚨 \n 🇪🇸 Frappe D\'amnesia Espagnol 🇪🇸 \n Qualité au rendez-vous 💥 \n\n Dispo dès maintenant ⏳',
+                            tarifs: [
+                                { weight: '1g', price: 10.00 },
+                                { weight: '2,5g', price: 20.00 },
+                                { weight: '5,5g', price: 40.00 },
+                            ]
                         }
                     ]
                 },
