@@ -485,6 +485,21 @@ document.addEventListener('DOMContentLoaded', function () {
                              { weight: '4,5g', price: 40.00 },
                          ]
                      },
+                     {
+                         id: 'GELATO 🍧',
+                         flag: '🇺🇸',
+                         name: 'GELATO 🍧',
+                         farm: '🇺🇸 NO FARM',
+                         promoEligible: false,
+                         type: 'Weed',
+                         image: 'ProductGelato1.png',
+                         video: 'VideoGelato1.mp4',
+                         description: '🔥 GROSSE NOUVEAUTÉ 🔥 \n\n Découvrez notre Frappe de Cali  Made in California 🇺🇸\n Qualité premium • Arômes intenses • Sélection soignée',
+                         tarifs: [
+                             { weight: '1,8g', price: 20.00 },
+                             { weight: '4g', price: 40.00 },
+                         ]
+                     },
                 
                  ]
              },
