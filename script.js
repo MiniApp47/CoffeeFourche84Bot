@@ -176,6 +176,22 @@ document.addEventListener('DOMContentLoaded', function () {
                     badgeText: '',
                     products: [
                         {
+                            id: 'Berry Skittlez 🫐',
+                            flag: '🇺🇸',
+                            name: 'Berry Skittlez 🫐',
+                            farm: 'STICKY FINGERS ☝️',
+                            promoEligible: true,
+                            type: 'Filtrer',
+                            image: 'ProductBerry.png',
+                            video: 'VideoBerry.mp4',
+                            description: '🚨 NEW DROP 2026 🚨 \n\n MICRONS : 90u \n La frappe est là… qualité qui parle d’elle-même 🔥',
+                            tarifs: [
+                                { weight: '1g', price: 10.00 },
+                                { weight: '2g', price: 20.00 },
+                                { weight: '4,8g', price: 40.00 },
+                            ]
+                        },
+                        {
                             id: 'STATIC 🔌',
                             flag: '🇺🇸',
                             name: 'STATIC 🔌',
